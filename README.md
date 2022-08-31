@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://forkify-v2-bar.netlify.app/">
+  <a href="https://donate11o-app.herokuapp.com/">
     <img src="./src/assets/img/logo.png" alt="Logo" width="100%" height="100%">
   </a>
 
