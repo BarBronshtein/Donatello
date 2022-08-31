@@ -43,7 +43,7 @@ Donatello is a project management tool you can build boards, groups and tasks
 This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses webpack as module bundler and NPM as package manager.
 
 - Vue
-- Vitest
+- Vite
 - JavaScript
 - Websockets
 - NPM
