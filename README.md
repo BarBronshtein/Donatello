@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://donate11o-app.herokuapp.com/">
+  <a href="https://donate11o.herokuapp.com/">
     <img src="./src/assets/img/logo.png" alt="Logo" width="100%" height="100%">
   </a>
 
@@ -11,7 +11,7 @@
     Donatello is a project management tool Inspired by Trello.
     <br />
     <br />
-    <a href="https://donate11o-app.herokuapp.com/">View Demo</a>
+    <a href="https://donate11o.herokuapp.com/">View Demo</a>
   </p>
 </p>
 
@@ -30,7 +30,7 @@
 
 ## About The Project
 
-[![Home Screen Shot][home-screenshot]](https://donate11o-app.herokuapp.com//)
+[![Home Screen Shot][home-screenshot]](https://donate11o.herokuapp.com//)
 ![Board Screen Shot][board-screenshot]
 ![Task Details][task-screenshot]
 ![Quick Edit][quick-edit-screenshot]
